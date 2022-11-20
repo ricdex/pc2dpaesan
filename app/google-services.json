@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "914229480185",
+    "project_id": "practica2dpa",
+    "storage_bucket": "practica2dpa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914229480185:android:c9ea9ba64ebad11e433028",
+        "android_client_info": {
+          "package_name": "com.dpa.practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914229480185-1c1a9l13ugt2b228b7fvc0pct5k2forf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoaRnqvXvj8QbvTZS7VN1E_aaQXVjMGUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914229480185-1c1a9l13ugt2b228b7fvc0pct5k2forf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914229480185:android:78432fdfe92d429f433028",
+        "android_client_info": {
+          "package_name": "com.esan.pc2dpaesan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914229480185-1c1a9l13ugt2b228b7fvc0pct5k2forf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoaRnqvXvj8QbvTZS7VN1E_aaQXVjMGUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914229480185-1c1a9l13ugt2b228b7fvc0pct5k2forf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
